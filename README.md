@@ -67,6 +67,7 @@ Go into MYSQL/ HEIDI SQL and create database "abc_test"
 Go into .env file and change Database name
 ```
 
+```
 php artisan migrate
 ```
 
@@ -78,6 +79,8 @@ Generating a New Application Key
 ```
 php artisan key:generate
 ```
-Run the application 
-php artisan serve
+
+Generating a New Application Key
+```
+php artisan key:generate
 ```
