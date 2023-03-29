@@ -62,10 +62,9 @@ npm run dev
 ```
 
 ## How to setting 
-
+```
 
 Go into MYSQL/ HEIDI SQL and create database "abc_test"
-```
 Go into .env file and change Database name
 
 ```
