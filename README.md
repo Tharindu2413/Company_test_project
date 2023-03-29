@@ -11,7 +11,7 @@
 
 This is a simple crud application  I made for parallax company Interview using Laravel ^10.4.1
 
-| [Features][] | [Requirements][] | [Install][] | [How to setting][] | [License][] |
+| [Features] | [Requirements][] | [Install][] | [How to setting][] | [License][] |
 
 
 ## Features 
