@@ -65,8 +65,8 @@ npm run dev
 ```
 Go into MYSQL/ HEIDI SQL and create database "abc_test"
 Go into .env file and change Database name
-
 ```
+
 php artisan migrate
 ```
 
@@ -74,13 +74,10 @@ php artisan migrate
 php artisan db:seed --class=PermissionTableSeeder
 php artisan db:seed --class=CreateAdminUserSeeder
 ```
-	
 Generating a New Application Key
 ```
 php artisan key:generate
 ```
-
 Run the application 
-
 php artisan serve
 ```
