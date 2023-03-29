@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Laravel Ecommerce Platform
+## Laravel Crud Application
 
 This is a simple crud application  I made for parallax company Interview using Laravel ^10.4.1
 
