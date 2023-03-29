@@ -9,7 +9,7 @@
 
 ## Laravel Ecommerce Platform
 
-This is a e-commerce platform I made mostly using Laravel ^8.3
+This is a simple crud application  I made for parallax company Interview using Laravel ^10.4.1
 
 | [Features][] | [Requirements][] | [Install][] | [How to setting][] | [License][] |
 
@@ -65,6 +65,7 @@ npm run dev
 
 
 Go into MYSQL/ HEIDI SQL and create database "abc_test"
+```
 Go into .env file and change Database name
 
 ```
@@ -82,6 +83,6 @@ php artisan key:generate
 ```
 
 Run the application 
-
+```
 php artisan serve
 ```
