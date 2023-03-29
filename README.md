@@ -82,6 +82,5 @@ php artisan key:generate
 
 Run the application 
 
-```
 php artisan serve
 ```
