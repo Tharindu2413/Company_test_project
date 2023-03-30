@@ -81,11 +81,6 @@ Generating a New Application Key
 php artisan key:generate
 ```
 
-Generating a New Application Key
-```
-php artisan key:generate
-```
-
 Run the application
 ```
 php artisan serve
